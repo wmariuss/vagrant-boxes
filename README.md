@@ -10,6 +10,6 @@
 
 * Go to any dir and run `vagrant up` or `./start.sh`
 
-# Authors
+## Authors
 
 * [Marius Stanca](mailto:me@marius.xyz)
