@@ -1,2 +1,3 @@
-# vagrant-boxes
-Vagrant boxes
+# VM
+
+`dev` and `test` environments.
