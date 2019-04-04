@@ -4,7 +4,7 @@
 
 ## Requirements
 
-* `vagrant` >= 2.2.0
+* `vagrant >= 2.2.0`
 
 ## Usage
 
