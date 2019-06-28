@@ -36,5 +36,7 @@ install_pipenv:
   pip.installed:
     - name: pipenv
     - user: root
+    - require:
+      - cmd: link_python
     - watch:
       - cmd: link_pip
