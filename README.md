@@ -1,14 +1,15 @@
 # vm
 
-`dev` and `test` environments.
+`dev` and `test` environments for different projects.
 
 ## Requirements
 
-* `vagrant >= 2.2.0`
+* `vagrant >= 2.x`
+* `virtualbox == 5.x`
 
 ## Usage
 
-* Go to any dir and run `vagrant up` or `./start.sh`
+* Go to any project dir and run `vagrant up` or `./start.sh`
 
 ## Authors
 
