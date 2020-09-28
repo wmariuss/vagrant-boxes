@@ -1,4 +1,4 @@
-# vm
+# Vagrant boxes
 
 `dev` and `test` environments for different projects.
 
